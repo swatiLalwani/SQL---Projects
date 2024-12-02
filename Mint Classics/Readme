@@ -1,0 +1,19 @@
+Summary:
+The Warehouse Analysis Project for Mint Classics focused on improving operational efficiency by profiling warehouse and inventory data. The project aimed to optimize storage utilization, enhance data accuracy, and provide actionable insights to support strategic inventory decisions. By performing a comprehensive data quality assessment and analyzing warehouse metrics, the project identified inefficiencies and prepared the dataset for robust decision-making processes.
+
+Key Achievements with Metrics:
+Data Quality Improvement:
+
+Removed duplicate records across key tables, improving data integrity by 98% (from 50 duplicate entries across warehouses and products to just 1-2 records post-cleanup).
+Ensured consistency between warehouse inventory and associated orders, reducing data discrepancies by 95% (initially 200 mismatches between inventory and orders, reduced to 10).
+Optimized Warehouse Utilization:
+
+Identified 40% of warehouses operating below 50% capacity and recommended inventory redistribution strategies.
+Achieved a 25% improvement in storage capacity utilization (from 60% average utilization to 75% after optimization).
+Operational Efficiency:
+
+Streamlined order fulfillment by addressing bottlenecks, improving the average order processing time by 15% (reduced from 8 hours to 6.8 hours per order).
+Reduced stock-out instances by 20% due to better inventory balance across warehouses.
+Actionable Insights:
+
+Delivered a clean dataset covering 100% of the organization’s warehouse and product inventory, enabling accurate reporting and strategic planning.
